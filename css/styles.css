@@ -1,0 +1,146 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 200%;
+  border: 0;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #5499C7;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #5499C7;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #2980B9;
+}
+
+.top-container {
+  padding-top: 45px;
+  background-color: #daf1f9;
+  position: relative;
+  margin-bottom: 100px;
+}
+
+.middle-container {
+  margin-bottom: 50px;
+}
+
+.bottom-container {
+  background-color: #a4d7e1;
+  margin-top: 20px;
+  padding: 45px;
+}
+
+.bottom-cloud {
+  padding-top: 50px;
+  position: absolute;
+  left: 180px;
+}
+
+.top-cloud {
+  position: relative;
+  left: 330px;
+}
+
+span {
+  text-decoration: underline;
+}
+
+a {
+  color: #2980B9;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+#Programmer {
+  font-weight: normal;
+}
+
+.skill-row {
+  width: 70%;
+  margin: 50px auto 50px auto;
+  padding: 30px 0;
+  text-align: left;
+  line-height: 2;
+}
+
+.draw {
+  position: relative;
+  right: 20px;
+  width: 40%;
+  line-height: 1px;
+  float: left;
+  padding: 40px;
+}
+
+.code {
+  width: 35%;
+  float: right;
+  padding: 40px;
+}
+
+hr {
+  border-color: #f6edcf;
+  border-width: 10px;
+  width: 8%;
+  border-style: dotted none none;
+  height: 5px;
+}
+
+.space {
+  margin-top: 80px;
+}
+
+.down-space {
+  margin-bottom: 90px;
+}
+
+p {
+  color: #40514E;
+  margin: 0;
+}
+
+.B {
+  background-color: #a4d7e1;
+  border-top-color: initial;
+  border-top-style: initial;
+  border-top-width: 0px;
+  border-right-color: initial;
+  border-right-style: initial;
+  border-right-width: 0px;
+  border-bottom-color: initial;
+  border-bottom-style: initial;
+  border-bottom-width: 0px;
+  border-left-color: initial;
+  border-left-style: initial;
+  border-left-width: 0px;
+  padding: 20px;
+  font-family: 'Nunito Sans', sans-serif;
+  border-width: 10px;
+  text-decoration: none;
+  text-shadow: none;
+  border-radius: 3%;
+  color: #FFFFFF;
+  font-size: 1.5rem;
+}
+
+.button-space {
+  padding: 40px;
+}
+
+#padding {
+  padding-top: 40px;
+  color: #EAF6F6;
+  font-size: 15px;
+}
